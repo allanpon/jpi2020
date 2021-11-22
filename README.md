@@ -1,4 +1,4 @@
-# Projet
+# Journée Programmation Intensive
 
 ![JPI](img/jpi.jpg)
 
